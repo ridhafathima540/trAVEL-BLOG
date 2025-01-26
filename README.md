@@ -11,7 +11,7 @@
 - Member 3: Ridha Fathima M R - L.B.S. College of engineering,Kasaragod
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://ridhafathima540.github.io/trAVEL-BLOG/
 
 ### Project Description
 
